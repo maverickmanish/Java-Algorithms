@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Dynamic Programming/|Searching/|Backtracking/|Tree/|Greedy Algorithms/Job Sequencing Problem/|Greedy Algorithms/Activity Selection Problem/|Linked List/|DuplicateLinesElimination/|Miscellaneous/|Greedy Algorithms/|Sorting Algorithms/|String Reversal/|Graph Algorithms/|Operating Systems/" kind="src" path=""/>
+	<classpathentry kind="src" path="Backtracking"/>
+	<classpathentry kind="src" path="DuplicateLinesElimination"/>
+	<classpathentry kind="src" path="Dynamic Programming"/>
+	<classpathentry kind="src" path="Graph Algorithms"/>
+	<classpathentry excluding="Job Sequencing Problem/|Activity Selection Problem/" kind="src" path="Greedy Algorithms"/>
+	<classpathentry kind="src" path="Greedy Algorithms/Activity Selection Problem"/>
+	<classpathentry kind="src" path="Greedy Algorithms/Job Sequencing Problem"/>
+	<classpathentry kind="src" path="Linked List"/>
+	<classpathentry kind="src" path="Miscellaneous"/>
+	<classpathentry kind="src" path="Operating Systems"/>
+	<classpathentry kind="src" path="Searching"/>
+	<classpathentry kind="src" path="Sorting Algorithms"/>
+	<classpathentry kind="src" path="String Reversal"/>
+	<classpathentry kind="src" path="Tree"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
